@@ -1,0 +1,6 @@
+﻿Timestamp,TestType,Operation,ElapsedMilliseconds,Result,Details
+"2026-04-28 16:51:37","Usability","Application started at Login form",0,"Steps=1","Login form visible"
+"2026-04-28 16:51:55","Security","Login attempt",0,"Accepted","InvalidAttemptsBeforeSuccess=0; UsernameProvided=True; PasswordProvided=True"
+"2026-04-28 16:52:01","Usability","Dashboard to Reports",0,"Steps=1","Reports button clicked"
+"2026-04-28 16:52:09","Performance","Generate report",4012,"Report generated","ReportType=Student Summary Report; StudentIdProvided=True"
+"2026-04-28 16:53:04","Usability","Reports to Dashboard",0,"Steps=1","Back button clicked"
